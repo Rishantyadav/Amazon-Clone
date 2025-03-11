@@ -1,4 +1,3 @@
-This repository contains two frontend clone projects built with **HTML & CSS**:
+This repository contains a frontend clone project built with **HTML & CSS**:
 
 - **Amazon Clone**  - A homepage replica of Amazon
-- **Netflix Clone**  - A homepage replica of Netflix
